@@ -1,0 +1,4 @@
+pyinstaller
+filecmp
+watchdog
+tkinter

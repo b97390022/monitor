@@ -1,4 +1,0 @@
-pyinstaller
-filecmp
-watchdog
-tkinter
