@@ -1,0 +1,12 @@
+# 檔案名稱 .gitignorec
+
+# 忽略 .spec 檔案
+*.spec
+*.exe
+
+# 忽略 資料夾
+__pycache__/
+build/
+dist/
+
+
